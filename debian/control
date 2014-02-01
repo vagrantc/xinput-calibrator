@@ -3,7 +3,10 @@ Section: utils
 Priority: optional
 Maintainer: Andrea Colangelo <warp10@debian.org>
 Build-Depends: debhelper (>= 9.0.0),
-               dh-autoreconf
+               dh-autoreconf,
+               pkg-config,
+               libx11-dev,
+               libxi-dev
 Standards-Version: 3.9.5
 Homepage: http://www.freedesktop.org/wiki/Software/xinput_calibrator/
 Vcs-Git: git://git.debian.org/collab-maint/xinput-calibrator.git
