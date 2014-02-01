@@ -19,7 +19,7 @@ Depends: ${shlibs:Depends},
 Description: Generic touchscreen calibration program for X.Org
  xinput-calibrator is a tool to calibrate touchscreens under X.Org.
  Its features include:
- - work for any Xorg driver (use Xinput to get axis valuators);
- - output the calibration as Xorg.conf, HAL policy and udev rule;
- - support advanced driver options, such as Evdev's dynamic calibration;
- - have a very intuitive GUI (normal X client);
+  - work for any Xorg driver (use Xinput to get axis valuators);
+  - output the calibration as Xorg.conf, HAL policy and udev rule;
+  - support advanced driver options, such as Evdev's dynamic calibration;
+  - have a very intuitive GUI (normal X client);
