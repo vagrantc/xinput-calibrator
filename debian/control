@@ -9,8 +9,8 @@ Build-Depends: debhelper (>= 9.0.0),
                libxi-dev
 Standards-Version: 3.9.5
 Homepage: http://www.freedesktop.org/wiki/Software/xinput_calibrator/
-Vcs-Git: git://git.debian.org/collab-maint/xinput-calibrator.git
-Vcs-Browser: http://git.debian.org/?p=collab-maint/xinput-calibrator.git
+Vcs-Git: git://anonscm.debian.org/collab-maint/xinput-calibrator.git
+Vcs-Browser: http://anonscm.debian.org/gitweb/?p=collab-maint/xinput-calibrator.git
 
 Package: xinput-calibrator
 Architecture: any
