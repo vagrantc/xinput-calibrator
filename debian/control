@@ -1,0 +1,15 @@
+Source: xinput-calibrator
+Section: unknown
+Priority: optional
+Maintainer: Andrea Colangelo <warp10@debian.irg>
+Build-Depends: debhelper (>= 8.0.0)
+Standards-Version: 3.9.4
+Homepage: <insert the upstream URL, if relevant>
+#Vcs-Git: git://git.debian.org/collab-maint/xinput-calibrator.git
+#Vcs-Browser: http://git.debian.org/?p=collab-maint/xinput-calibrator.git;a=summary
+
+Package: xinput-calibrator
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>

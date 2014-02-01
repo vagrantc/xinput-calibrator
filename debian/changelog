@@ -1,0 +1,5 @@
+xinput-calibrator (0.7.5+git20130410-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Andrea Colangelo <warp10@debian.irg>  Sat, 01 Feb 2014 11:35:43 +0100
