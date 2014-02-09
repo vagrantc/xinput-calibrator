@@ -1,4 +1,4 @@
-xinput-calibrator (0.7.5+git20140201-1) UNRELEASED; urgency=low
+xinput-calibrator (0.7.5+git20140201-1) unstable; urgency=low
 
   * Initial release. (Closes: #592073)
 
