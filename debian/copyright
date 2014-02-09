@@ -9,17 +9,22 @@ Copyright: 2009-2010 Tias Guns <tias@ulyssis.org>
            2011 Antoine Hue
            2007 Peter Hutterer
            2013 Andreas Müller
-License: MIT/X11
+License: Expat
 
 Files: scripts/xinput_calibrator.svg
 Copyright: Tias Guns <tias@ulyssis.org>
 License: CC-BY-SA-3.0
+Comment: The screen and triangle are from the Tango Desktop Project,
+ which is in the Public Domain.
+ The hand is from Ubuntu's human-icon-theme, which is under CC-BY-SA-3.0 and
+ Copyright Jeff Waugh <jdub@perkypants.org>, Daniel Holbach
+ <daniel.holbach@ubuntu.com>, Martin Pitt <martin.pitt@ubuntu.com>
 
 Files: debian/*
 Copyright: 2014 Andrea Colangelo <warp10@debian.org>
-License: MIT/X11
+License: Expat
 
-License: MIT/X11
+License: Expat
  Permission is hereby granted, free of charge, to any person obtaining a
  copy of this software and associated documentation files (the "Software"),
  to deal in the Software without restriction, including without limitation
