@@ -1,2 +1,3 @@
 typo_in_man.patch
 typo_in_src.patch
+do_not_install_tester.patch
